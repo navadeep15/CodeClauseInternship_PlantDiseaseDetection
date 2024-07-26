@@ -21,7 +21,7 @@ To get the `model.h5` file, you can run the provided `.ipynb` file to train the 
 
 1. clone the repository:
 ```
-git clone https://github.com/navadeep15/CodeClauseInternship_PlantDiseaseDetection
+git clone https://github.com/navadeep15/CodeClauseInternship_PlantDiseaseDetection.git
 ```
 2. Navigate to the directory.
 3. To start the Flask server:
